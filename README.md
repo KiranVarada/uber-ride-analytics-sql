@@ -106,6 +106,7 @@ Before analysis, the dataset was prepared by:
 * Unsuccessful Rides: 57,000 (38%)
 
 Driver-side cancellations represented the largest share of unsuccessful bookings.
+<img width="420" height="165" alt="total bookings" src="https://github.com/user-attachments/assets/dff0c51d-a3e9-479a-bd5e-3c4b2ad5faf7" />
 
 ### Revenue Insights
 
@@ -117,12 +118,14 @@ Driver-side cancellations represented the largest share of unsuccessful bookings
 
 * Auto generated the highest revenue.
 * Revenue differences were primarily driven by booking volume rather than fare variation.
+<img width="447" height="137" alt="revenue by vehicle" src="https://github.com/user-attachments/assets/6046a1b9-2322-4be9-a6be-fff5ae885c15" />
 
 ### Payment Insights
 
 * UPI was the most preferred payment method.
 * UPI generated approximately ₹21.27 Million in revenue.
 * Digital payments dominated overall transactions.
+<img width="317" height="137" alt="payment method analysis" src="https://github.com/user-attachments/assets/5cff5ee2-0651-4dc3-a11a-d9da6943e3d7" />
 
 ### Customer Satisfaction
 
@@ -138,7 +141,6 @@ Driver-side cancellations represented the largest share of unsuccessful bookings
 * Promote digital payment adoption through targeted incentives.
 * Monitor ride completion rates as a primary operational KPI.
 * Focus on high-demand pickup locations to improve service efficiency.
-<img width="447" height="137" alt="revenue by vehicle" src="https://github.com/user-attachments/assets/8c67c47a-d950-47c1-8295-40fcca2fcec9" />
 
 ---
 
