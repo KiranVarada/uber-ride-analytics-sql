@@ -138,6 +138,7 @@ Driver-side cancellations represented the largest share of unsuccessful bookings
 * Promote digital payment adoption through targeted incentives.
 * Monitor ride completion rates as a primary operational KPI.
 * Focus on high-demand pickup locations to improve service efficiency.
+<img width="447" height="137" alt="revenue by vehicle" src="https://github.com/user-attachments/assets/8c67c47a-d950-47c1-8295-40fcca2fcec9" />
 
 ---
 
